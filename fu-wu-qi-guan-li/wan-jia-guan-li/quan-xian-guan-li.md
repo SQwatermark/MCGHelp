@@ -39,21 +39,21 @@ SQwatermark在地皮世界的权限就是毛玉了
 
 输入/lp editor，将返回的链接复制到剪贴板
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 用一个靠谱的浏览器打开链接，你就会看到如图所示的编辑器，你可以通过网页编辑所有权限组和所有在线玩家的权限
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 编辑完之后，点击右上方的保存，在服务器里执行网页返回的指令
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 显示类似于下方的信息，表示编辑成功，通常会返回有哪些内容出现了变动，但是我并没有改动任何权限，所以返回的是这样的一段话
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 有时你只想编辑某个权限组或者某个玩家的权限，可以执行这样的指令：
 
