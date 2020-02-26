@@ -16,6 +16,8 @@ description: 依赖LuckPerms插件
 | 设置/添加/移除父组 | /lp group\|user 组名\|玩家名 parent set\|add\|remove 父组名 |
 | 添加/禁用权限 | /lp group\|user 组名\|玩家名 permission set 权限节点 true\|false |
 | 取消定义权限 | /lp group\|user 组名\|玩家名 permission unset 权限节点 |
+| 查看权限组\|玩家信息 | /lp group\|user 组名\|玩家名 info |
+| 查看权限组\|玩家权限 | /lp group\|user 组名\|玩家名 permission info |
 
 ### 分世界权限
 
