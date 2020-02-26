@@ -25,6 +25,7 @@
       * [生成形状](untitled/worldedit/ji-chu-cao-zuo/sheng-cheng-xing-zhuang.md)
       * [快捷指令](untitled/worldedit/ji-chu-cao-zuo/kuai-jie-zhi-ling.md)
     * [进阶操作](untitled/worldedit/jin-jie-cao-zuo/README.md)
+      * [选区进阶](untitled/worldedit/jin-jie-cao-zuo/xuan-qu-jin-jie.md)
       * [笔刷](untitled/worldedit/jin-jie-cao-zuo/bi-shua.md)
       * [工具](untitled/worldedit/jin-jie-cao-zuo/gong-ju.md)
       * [更深入的研究](untitled/worldedit/jin-jie-cao-zuo/geng-shen-ru-de-yan-jiu.md)
