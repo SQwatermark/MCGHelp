@@ -18,7 +18,6 @@
     * [选区和操作](build/worldedit/xuan-qu.md)
     * [剪贴板](build/worldedit/jian-tie-ban.md)
     * [快捷指令](build/worldedit/kuai-jie-zhi-ling.md)
-    * [生成形状](build/worldedit/sheng-cheng-xing-zhuang.md)
     * [选区进阶](build/worldedit/xuan-qu-jin-jie.md)
     * [工具](build/worldedit/gong-ju.md)
     * [笔刷](build/worldedit/bi-shua.md)
