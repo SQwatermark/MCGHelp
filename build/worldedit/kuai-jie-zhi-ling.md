@@ -23,6 +23,10 @@
 | 抽空池塘 | //drain &lt;半径&gt; |
 | 修复水面 | //fixwater &lt;半径&gt; |
 | 修复岩浆表面 | //fixlava &lt;半径&gt; |
+| 清除实体 | /remove &lt;类型&gt; &lt;范围&gt; |
+| 清除生物 | /butcher &lt;半径&gt; |
+| 模拟降雪 | /snow &lt;半径&gt; |
+| 解冻冰雪 | /thaw &lt;半径&gt; |
 
 
 

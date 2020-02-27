@@ -4,6 +4,14 @@ description: //wand，这是操作得以成立的前提
 
 # 选区和操作
 
+### 在一切之前，先学两个指令
+
+{% hint style="info" %}
+//undo可执行撤销操作，用法是//undo \[步数\]，步数不填默认撤销一步。但是：撤销是有次数限制的！尤其是使用笔刷时请务必小心谨慎！
+
+//redo \[步数\] 可重做被撤销的操作
+{% endhint %}
+
 ## 选区
 
 {% embed url="https://www.bilibili.com/video/av90288829" %}
