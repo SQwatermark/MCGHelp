@@ -15,7 +15,7 @@
   * [服务器运行统计与分析](fu-wu-qi-guan-li/fu-wu-qi-yun-hang-tong-ji-yu-fen-xi.md)
   * [权限设置](fu-wu-qi-guan-li/quan-xian-she-zhi.md)
 * [建筑](build/README.md)
-  * [雕凿工艺](build/diao-zao-gong-yi.md)
+  * [雕凿工艺](build/chiselsandbits.md)
   * [建筑小帮手](build/jian-zhu-xiao-bang-shou.md)
   * [WorldEdit](build/worldedit/README.md)
     * [选区和操作](build/worldedit/xuan-qu.md)
