@@ -2,7 +2,7 @@
 
 * [写在前面](README.md)
 * [常规](untitled-2/README.md)
-  * [一些杂指令](untitled-2/kuai-jie-yi-dong.md)
+  * [一些指令](untitled-2/kuai-jie-yi-dong.md)
   * [传送](untitled-2/chuan-song.md)
 * [服务器管理](fu-wu-qi-guan-li/README.md)
   * [玩家管理](fu-wu-qi-guan-li/wan-jia-guan-li/README.md)
