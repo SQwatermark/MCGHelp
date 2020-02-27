@@ -58,7 +58,6 @@ description: //wand，这是操作得以成立的前提
 | 使选区内的东西空心 | //hollow |
 | 修改生物群系 | //setbiome &lt;生物群系&gt;（//biomelist &lt;页码&gt;可查看所有生物群系） |
 | 在pos1和pos2之间连线 | //line &lt;ID&gt; &lt;宽度&gt; |
-|  |  |
 
 * 方向的写法：north, south, west, east, up, down，如果不填则默认为你的朝向。（可以简写为n,s,w,e,u,d）
 * move的特殊参数：在//move之后，距离之前，写上一个 -s，选区会跟随移动。（十分常用）例如：//move -s 2 up
