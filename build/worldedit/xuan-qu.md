@@ -47,13 +47,15 @@ description: //wand，这是操作得以成立的前提
 | 移动 | //move &lt;距离&gt; \[方向\] \[填充方块\] |
 | 平滑 | //smooth &lt;迭代次数&gt; |
 | 自然化 | //naturalize |
-| 放置植物群 | //flora |
 | 使选区内的东西空心 | //hollow |
+| 修改生物群系 | //setbiome &lt;生物群系&gt;（//biomelist &lt;页码&gt;可查看所有生物群系） |
+| 在pos1和pos2之间连线 | //line &lt;ID&gt; &lt;宽度&gt; |
+|  |  |
 
 * 方向的写法：north, south, west, east, up, down，如果不填则默认为你的朝向。（可以简写为n,s,w,e,u,d）
 * move的特殊参数：在//move之后，距离之前，写上一个 -s，选区会跟随移动。（十分常用）例如：//move -s 2 up
 * 可以用hand表示你手持的方块，试试//set hand
-* 在进阶操作中会介绍自然化和放置植物群更好的办法。
+* 虽然有生成花草和树木的指令但是不建议使用，之后会介绍更好的方法。
 * stack大法好！
 
 {% hint style="info" %}
@@ -62,5 +64,9 @@ description: //wand，这是操作得以成立的前提
 重点2：可以设置每种方块出现的概率，只需要在方块前面加上百分比，概率之和不需要恰好为100%，会进行加权平均。
 
 以上两点在绝大部分需要填写方块的场合都能使用
+{% endhint %}
+
+{% hint style="info" %}
+重点3：生物群系在修改后需要重新进入该地图才会在客户端生效。
 {% endhint %}
 

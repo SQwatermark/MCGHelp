@@ -21,7 +21,8 @@
 | 填充凹洞 | //fill &lt;方块&gt; &lt;半径&gt; \[深度\] |
 | 递归填充 | //fillr &lt;方块&gt; &lt;半径&gt; |
 | 抽空池塘 | //drain &lt;半径&gt; |
-|  |  |
+| 修复水面 | //fixwater &lt;半径&gt; |
+| 修复岩浆表面 | //fixlava &lt;半径&gt; |
 
 
 

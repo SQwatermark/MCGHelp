@@ -9,6 +9,8 @@
 | 方块替换工具 | /repl &lt;id&gt; |
 | 远程方块放置 | /lrbuild   |
 | 远程选区工具 | /farwand |
+| 植树工具 | /tree &lt;种类&gt; |
+| 伐木工具 | /deltree |
 
 ### 超级镐子
 
