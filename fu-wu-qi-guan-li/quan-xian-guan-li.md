@@ -6,7 +6,7 @@ description: 依赖LuckPerms插件
 
 {% embed url="https://pluginscdtribe.github.io/wiki/luckperms/" caption="LuckPerms中文wiki（这里啥都有）" %}
 
-### 常用指令
+## 常用指令
 
 | 操作 | 指令 |
 | :--- | :--- |
@@ -19,7 +19,7 @@ description: 依赖LuckPerms插件
 | 查看权限组\|玩家信息 | /lp group\|user 组名\|玩家名 info |
 | 查看权限组\|玩家权限 | /lp group\|user 组名\|玩家名 permission info |
 
-### 分世界权限
+## 分世界权限
 
 只需要在指令最后加上 world=世界名 即可
 
@@ -35,25 +35,25 @@ SQwatermark在地皮世界的权限就是毛玉了
 世界名要填写完整，主世界是mcg\_gensokyo而不是gensokyo，一个简单的查看世界原名的方式是看网页地图里的世界名
 {% endhint %}
 
-### 网页编辑器
+## 网页编辑器
 
 输入/lp editor，将返回的链接复制到剪贴板
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 用一个靠谱的浏览器打开链接，你就会看到如图所示的编辑器，你可以通过网页编辑所有权限组和所有在线玩家的权限
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 编辑完之后，点击右上方的保存，在服务器里执行网页返回的指令
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 显示类似于下方的信息，表示编辑成功，通常会返回有哪些内容出现了变动，但是我并没有改动任何权限，所以返回的是这样的一段话
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 有时你只想编辑某个权限组或者某个玩家的权限，可以执行这样的指令：
 
@@ -61,7 +61,7 @@ SQwatermark在地皮世界的权限就是毛玉了
 
 这样网页编辑器里就只有指定的组/玩家了
 
-### 权限优先级的计算
+## 权限优先级的计算
 
 * 世界特定的权限是会覆盖通用/全局权限设置的
 * 临时权限将会覆盖非临时权限（本服没有临时权限）
@@ -72,5 +72,7 @@ SQwatermark在地皮世界的权限就是毛玉了
 
 * 玩家的权限优先于玩家所属权限组的权限，权限组的权限优先于其父组的权限
 
+## MCG权限表
 
+{% embed url="https://docs.qq.com/sheet/DQXBSelJwdlBtQU5p" %}
 
