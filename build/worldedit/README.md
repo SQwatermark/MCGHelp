@@ -4,6 +4,10 @@ description: 工欲善其事，必先利其器
 
 # WorldEdit
 
+{% file src="../../.gitbook/assets/worldedit-wiki-zhong-wen-wen-dang-ver1.zip" caption="WE中文文档" %}
+
+{% file src="../../.gitbook/assets/ch-worldedit\_ref\_rev6.pdf" caption="WE快捷参考表" %}
+
 ## 何为WorldEdit？
 
 一款游戏内地图编辑器，建筑师可以用一把木斧选择一些区域，并使用各种奇形怪状的指令对区域进行编辑，简称WE，俗称“创世神”，操作简单，每秒可编辑上百万方块，旋转平移//set 0，瞬间完成，是建筑工具的豪杰。
@@ -29,8 +33,6 @@ WorldEdit虽然俗称“创世神”，但真正的创世神永远是玩家。Wo
 更多资料
 
 {% embed url="https://www.mcbbs.net/thread-547928-1-1.html" %}
-
-![&#x53F3;&#x952E;&#x53E6;&#x5B58;&#x4E3A;&#x4FDD;&#x5B58;&#x56FE;&#x7247;&#xFF0C;&#x5EFA;&#x8BAE;&#x5EFA;&#x7B51;&#x5E08;&#x4EBA;&#x624B;&#x4E00;&#x5F20;](../../.gitbook/assets/022620203400_0-ch-worldedit_ref_rev6_1.Jpeg)
 
 
 
