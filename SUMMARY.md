@@ -25,9 +25,9 @@
     * [extra：更深入的研究](build/worldedit/geng-shen-ru-de-yan-jiu.md)
     * [extra：特殊方块大全](build/worldedit/extra-te-shu-fang-kuai-da-quan.md)
     * [extra：特殊技巧大全](build/worldedit/extra-te-shu-ji-qiao-da-quan.md)
+    * [extra：坐标轴与方向](build/worldedit/extra-zuo-biao-zhou-yu-fang-xiang.md)
   * [VoxelSniper](build/voxelsniper.md)
 * [附录](fu-lu/README.md)
-  * [坐标轴](fu-lu/zuo-biao-zhou.md)
   * [快捷键](fu-lu/kuai-jie-jian.md)
   * [样式代码](fu-lu/yang-shi-dai-ma.md)
 
