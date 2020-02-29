@@ -2,7 +2,8 @@
 
 * [写在前面](README.md)
 * [常规](normal/README.md)
-  * [一些指令](normal/kuai-jie-yi-dong.md)
+  * [经济](normal/jing-ji.md)
+  * [快捷移动](normal/kuai-jie-yi-dong.md)
   * [传送](normal/chuan-song.md)
 * [服务器管理](fu-wu-qi-guan-li/README.md)
   * [账号管理](fu-wu-qi-guan-li/deng-lu-cha-jian-authme.md)
