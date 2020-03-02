@@ -4,9 +4,9 @@ description: 地皮（考核世界）使用PlotSquared插件
 
 # 地皮
 
-{% embed url="http://mineplugin.org/PlotSquared" %}
+{% embed url="http://mineplugin.org/PlotSquared" caption="陈旧的百科" %}
 
-{% embed url="https://github.com/IntellectualSites/PlotSquared/wiki" %}
+{% embed url="https://github.com/IntellectualSites/PlotSquared/wiki" caption="详细但是是英文的文档" %}
 
 ## 基础使用说明
 
