@@ -31,4 +31,6 @@
 * [附录](fu-lu/README.md)
   * [快捷键](fu-lu/kuai-jie-jian.md)
   * [样式代码](fu-lu/yang-shi-dai-ma.md)
+* [RPG](rpg/README.md)
+  * [OptiFine](rpg/optifine.md)
 
