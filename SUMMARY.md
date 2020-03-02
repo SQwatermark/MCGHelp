@@ -22,7 +22,7 @@
     * [选区进阶](build/worldedit/xuan-qu-jin-jie.md)
     * [工具](build/worldedit/gong-ju.md)
     * [笔刷](build/worldedit/bi-shua.md)
-    * [bc工具箱](build/worldedit/bc-gong-ju-xiang.md)
+    * [BC工具箱](build/worldedit/bc-gong-ju-xiang.md)
     * [extra：更深入的研究](build/worldedit/geng-shen-ru-de-yan-jiu.md)
     * [extra：特殊方块大全](build/worldedit/extra-te-shu-fang-kuai-da-quan.md)
     * [extra：黑科技大全](build/worldedit/extra-te-shu-ji-qiao-da-quan.md)
