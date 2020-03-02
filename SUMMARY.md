@@ -11,6 +11,7 @@
   * [治安](fu-wu-qi-guan-li/untitled.md)
   * [保护插件](fu-wu-qi-guan-li/protection.md)
   * [多世界](fu-wu-qi-guan-li/multiverse.md)
+  * [地皮](fu-wu-qi-guan-li/plots.md)
   * [服务器运行统计与分析](fu-wu-qi-guan-li/fu-wu-qi-yun-hang-tong-ji-yu-fen-xi.md)
 * [建筑](build/README.md)
   * [雕凿工艺](build/chiselsandbits.md)
