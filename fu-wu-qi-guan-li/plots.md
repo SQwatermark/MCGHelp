@@ -26,3 +26,7 @@ description: 地皮（考核世界）使用PlotSquared插件
 
 **说明：**如果你有多个地皮的话，仅输入/plot home只能到达指定地皮，这个指令本质上和访问地皮是同一个指令，所以输入/plot visit也可以回到自己的地皮。
 
+### 设置家
+
+**指令：**/plot sethome
+
