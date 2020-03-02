@@ -58,15 +58,25 @@ delete表示删除地皮，clear表示清空地皮。delete是把地皮还原成
 
 ### 设置地皮属性
 
-/plot alias
+#### /plot alias
 
-/plot setdescription
+设置地皮名称
 
-/plot setflag
+#### /plot setdescription
 
-/plot done
+设置地皮的描述
 
-/plot continue
+#### /plot setflag
+
+设置地皮详细属性（高级操作）
+
+#### /plot done
+
+将地皮标记为已完成（效果未测试）
+
+#### /plot continue
+
+取消/plot done标记
 
 ### 设置权限
 
