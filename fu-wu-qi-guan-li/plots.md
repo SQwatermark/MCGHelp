@@ -14,7 +14,7 @@ description: 地皮（考核世界）使用PlotSquared插件
 
 不想看下面一大段就只记住三个指令就好了，/plot c领取地皮，/plot home返回地皮，/plot help获取帮助
 
-### 领取地皮
+### 领取和删除地皮
 
 **指令：**/plot claim，/plot auto
 
@@ -27,6 +27,8 @@ description: 地皮（考核世界）使用PlotSquared插件
 **指令：**/plot delete，/plot clear
 
 **说明：**delete表示删除地皮，clear表示清空地皮。delete是把地皮还原成无主的空白地皮，所以请不要随意使用此指令。（管理员是可以删除别人的地皮的）
+
+### 移动地皮
 
 **指令：**/plot swap &lt;X,Z&gt;
 
@@ -46,11 +48,39 @@ description: 地皮（考核世界）使用PlotSquared插件
 
 **说明：**如果你有多个地皮的话，仅输入/plot home只能到达指定地皮，这个指令本质上和访问地皮是同一个指令，所以输入/plot visit也可以回到自己的地皮。
 
-### 设置地皮
-
 **指令：**/plot sethome
 
 **说明：**设置家
+
+### 设置地皮属性
+
+### 设置权限
+
+/plot trust
+
+/plot add
+
+/plot deny
+
+/plot remove
+
+/plot merge
+
+/plot unlink
+
+/plot trust
+
+/plot setflag
+
+/plot done
+
+/plot continue
+
+/plot setdescription
+
+/plot alias
+
+/plot toggle
 
 
 
