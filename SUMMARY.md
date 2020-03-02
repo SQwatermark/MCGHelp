@@ -2,6 +2,7 @@
 
 * [写在前面](README.md)
 * [常规](normal/README.md)
+  * [推荐掌握](normal/tui-jian-zhang-wo.md)
   * [经济](normal/jing-ji.md)
   * [快捷移动](normal/kuai-jie-yi-dong.md)
   * [传送](normal/chuan-song.md)
