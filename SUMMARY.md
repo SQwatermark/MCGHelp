@@ -4,7 +4,6 @@
 * [常规](normal/README.md)
   * [推荐掌握](normal/tui-jian-zhang-wo.md)
   * [经济](normal/jing-ji.md)
-  * [快捷移动](normal/kuai-jie-yi-dong.md)
   * [传送](normal/chuan-song.md)
 * [服务器管理](fu-wu-qi-guan-li/README.md)
   * [账号管理](fu-wu-qi-guan-li/deng-lu-cha-jian-authme.md)
