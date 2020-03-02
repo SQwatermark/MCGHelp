@@ -53,5 +53,15 @@ description: 推荐的指令会给出较为详细的用法
 
 ## remove
 
-移除实体
+移除实体，上工时随时清理周围掉落物以防被玩家捡走，十分方便，但是不要清理超出上工范围的东西，后果可能很严重。
+
+格式：
+
+| `/remove <all|tamed|named|drops|arrows|boats| minecarts|xp|paintings|itemframes|endercrystals| monsters|animals|ambient|mobs|[mobType]> [半径|世界]` |
+| :--- |
+
+
+示例：/remove drops 50，清理半径50米内的所有掉落物
+
+## 
 
