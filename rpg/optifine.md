@@ -1,5 +1,5 @@
 ---
-description: 这可不仅仅是个开光影的mod
+description: 不仅仅是个开光影的mod
 ---
 
 # OptiFine
