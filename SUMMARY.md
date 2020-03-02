@@ -28,9 +28,9 @@
     * [extra：黑科技大全](build/worldedit/extra-te-shu-ji-qiao-da-quan.md)
     * [extra：坐标轴与方向](build/worldedit/extra-zuo-biao-zhou-yu-fang-xiang.md)
   * [VoxelSniper](build/voxelsniper.md)
+* [RPG](rpg/README.md)
+  * [OptiFine](rpg/optifine.md)
 * [附录](fu-lu/README.md)
   * [快捷键](fu-lu/kuai-jie-jian.md)
   * [样式代码](fu-lu/yang-shi-dai-ma.md)
-* [RPG](rpg/README.md)
-  * [OptiFine](rpg/optifine.md)
 
