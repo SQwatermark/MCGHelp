@@ -12,6 +12,8 @@ description: 地皮（考核世界）使用PlotSquared插件
 
 绝大部分指令需要你站在地皮上使用
 
+不想看下面一大段就只记住三个指令就好了，/plot c领取地皮，/plot home返回地皮，/plot help获取帮助
+
 ### 领取地皮
 
 **指令：**/plot claim，/plot auto
