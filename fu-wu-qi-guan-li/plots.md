@@ -54,11 +54,13 @@ delete表示删除地皮，clear表示清空地皮。delete是把地皮还原成
 
 #### /plot middle
 
-传送到地皮中央，强迫症福利（然而mcg的地皮是偶数格）
+传送到地皮中央，强迫症福利（mcg的地皮是偶数格）
 
 ### 设置地皮属性
 
 /plot alias
+
+/plot setdescription
 
 /plot setflag
 
@@ -84,11 +86,11 @@ delete表示删除地皮，clear表示清空地皮。delete是把地皮还原成
 
 禁止玩家进入和移动
 
+### 合并地皮
+
 /plot merge
 
 /plot unlink
-
-/plot setdescription
 
 /plot toggle
 
