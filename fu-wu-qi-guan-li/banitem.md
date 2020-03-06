@@ -2,5 +2,5 @@
 
 设置单独的bypass权限：
 
-banitem.bypass.\*.物品ID
+banitem.bypass.\*.物品ID@metadata
 
