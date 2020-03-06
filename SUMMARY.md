@@ -8,6 +8,7 @@
 * [服务器管理](fu-wu-qi-guan-li/README.md)
   * [账号管理](fu-wu-qi-guan-li/deng-lu-cha-jian-authme.md)
   * [权限管理](fu-wu-qi-guan-li/luckperms.md)
+  * [banitem](fu-wu-qi-guan-li/banitem.md)
   * [治安](fu-wu-qi-guan-li/untitled.md)
   * [保护插件](fu-wu-qi-guan-li/protection.md)
   * [多世界](fu-wu-qi-guan-li/multiverse.md)
