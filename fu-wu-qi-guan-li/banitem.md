@@ -4,3 +4,7 @@
 
 banitem.bypass.\*.物品ID@metadata
 
+指令：
+
+/banitem add w:/default/
+
